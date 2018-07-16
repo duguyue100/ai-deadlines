@@ -180,7 +180,7 @@
           }
           console.log(subs);
           store.set('{{ site.domain }}', subs);
-          window.history.pushState('', '', 'ai-deadlines/?sub=' + subs.join());
+          window.history.pushState('', '', '/?sub=' + subs.join());
         });
     });
     </script>
