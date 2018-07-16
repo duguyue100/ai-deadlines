@@ -1,9 +1,9 @@
 title: AI Conference Deadlines # (Maintained by @abhshkdz)
 # email: abhshkdz@vt.edu
 description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+author: duguyue100
 
-baseurl: "http://dgyblog.com/ai-deadlines"
+baseurl: "https://dgyblog.com/ai-deadlines"
 
 twitter_username: duguyue100
 twitter_hashtag: machinelearning
