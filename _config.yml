@@ -2,8 +2,8 @@ title: AI Conference Deadlines # (Maintained by @abhshkdz)
 description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
 author: duguyue100
 
-domain: "dgyblog.com/ai-deadlines"
-baseurl: "https://dgyblog.com/ai-deadlines"
+domain: "dgyblog.com/ai-deadlines/"
+baseurl: "ai-deadlines"
 
 twitter_username: duguyue100
 twitter_hashtag: machinelearning
