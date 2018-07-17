@@ -81,16 +81,6 @@
   place: Florence, Italy
   sub: NLP
 
-- name: AAMAS
-  year: 2018
-  id: aamas18
-  link: http://celweb.vuse.vanderbilt.edu/aamas18
-  deadline: "2017-11-14 23:59:00"
-  timezone: Etc/GMT+12
-  date: July 11-13, 2018
-  place: Stockholm, Sweden
-  sub: ML
-
 - name: CVPR
   year: 2019
   id: cvpr19
@@ -119,6 +109,16 @@
   timezone: TBA
   date: TBA
   place: TBA
+  sub: ML
+
+- name: AAMAS
+  year: 2018
+  id: aamas18
+  link: http://celweb.vuse.vanderbilt.edu/aamas18
+  deadline: "2017-11-14 23:59:00"
+  timezone: Etc/GMT+12
+  date: July 11-13, 2018
+  place: Stockholm, Sweden
   sub: ML
 
 - name: RSS
