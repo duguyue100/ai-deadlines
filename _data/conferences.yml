@@ -71,6 +71,16 @@
   place: Long Beach Convention Center, Long Beach, USA
   sub: ML
 
+- name: ESANN
+  year: 2019
+  id: esann19
+  link: https://www.elen.ucl.ac.be/esann/index.php?pg=welcome
+  deadline: "2018-11-19 23:59:59"
+  timezone: EST
+  date: April 24-26, 2019
+  place: Bruges, Belgium
+  sub: ML
+
 - name: ACL
   year: 2019
   id: acl19
