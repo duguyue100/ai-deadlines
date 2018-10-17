@@ -1,26 +1,6 @@
 
 ---
 
-- name: ISCAS
-  year: 2019
-  id: iscas19
-  link: https://www.iscas2019.org/
-  deadline: "2018-10-15 23:59:59"
-  timezone: Etc/GMT+10
-  date: May 26 - May 29, 2019
-  place: Sapporo, Japan
-  sub: SP
-
-- name: AISTATS
-  year: 2019
-  id: aistats19
-  link: https://www.aistats.org/
-  deadline: "2018-10-04 23:59:59"
-  timezone: America/Los_Angeles
-  date: April 16-18, 2019
-  place: Naha, Okinawa, Japan
-  sub: ML
-
 - name: ICASSP
   year: 2019
   id: icassp2019
@@ -30,26 +10,6 @@
   date: May 12-17, 2019
   place: Brighton, UK
   sub: SP
-
-- name: ICLR
-  year: 2019
-  id: iclr19
-  link: http://iclr.cc/
-  deadline: "2018-09-27 17:00:00"
-  timezone: EST
-  date: Apr 30 - May 03, 2019
-  place: New Orleans, USA
-  sub: ML
-
-- name: ICML
-  year: 2019
-  id: icml19
-  link: https://icml.cc/Conferences/2019
-  deadline: TBA
-  timezone: EST
-  date: June 10-15, 2019
-  place: Long Beach Convention Center, Long Beach, USA
-  sub: ML
 
 - name: ESANN
   year: 2019
@@ -61,11 +21,21 @@
   place: Bruges, Belgium
   sub: ML
 
+- name: ICML
+  year: 2019
+  id: icml19
+  link: https://icml.cc/Conferences/2019
+  deadline: "2019-01-18 23:59:59"
+  timezone: PST
+  date: June 10-15, 2019
+  place: Long Beach Convention Center, Long Beach, USA
+  sub: ML
+
 - name: ACL
   year: 2019
   id: acl19
   link: http://acl2019.org/
-  deadline: TBA
+  deadline: "2019-03-04 23:59:59"
   timezone: Etc/GMT+12
   date: July 28-August 2, 2019
   place: Florence, Italy
@@ -210,3 +180,34 @@
   date: October 29-31, 2018
   place: Zurich, Switzerland
   sub: RO
+
+- name: ISCAS
+  year: 2019
+  id: iscas19
+  link: https://www.iscas2019.org/
+  deadline: "2018-10-15 23:59:59"
+  timezone: Etc/GMT+10
+  date: May 26 - May 29, 2019
+  place: Sapporo, Japan
+  sub: SP
+
+- name: AISTATS
+  year: 2019
+  id: aistats19
+  link: https://www.aistats.org/
+  deadline: "2018-10-04 23:59:59"
+  timezone: America/Los_Angeles
+  date: April 16-18, 2019
+  place: Naha, Okinawa, Japan
+  sub: ML
+
+- name: ICLR
+  year: 2019
+  id: iclr19
+  link: http://iclr.cc/
+  deadline: "2018-09-27 17:00:00"
+  timezone: EST
+  date: Apr 30 - May 03, 2019
+  place: New Orleans, USA
+  sub: ML
+
