@@ -1,6 +1,15 @@
 
 ---
-
+- name: IROS
+  year: 2019
+  id: iros2019
+  link: https://www.iros2019.org/
+  deadline: "2019-03-01 23:59:59"
+  timezone: PST
+  date: November 3-8, 2019
+  place: The Venetian Macao, Macau, China
+  sub: RO
+  
 - name: ICASSP
   year: 2019
   id: icassp2019
